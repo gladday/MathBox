@@ -5,5 +5,5 @@ def add(a,b):
 def sub(a,b):
 	return a-b
 
-def devide(a,b):
+def devide_premium(a,b):
 	retnr a/b
